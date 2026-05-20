@@ -4,7 +4,7 @@ vibe coded this shit because editing in google doc is annoying af
 
 ## Start 
 
-clone this shit.
+clone this.
 
 double click `index.html`.
 
